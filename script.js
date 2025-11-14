@@ -1360,16 +1360,16 @@ const cityData = {
         image: "./Zee All Images:Videos/Speakers cm1.jpg",
       },
       {
-        name: "Mr. Tanmay Kanitkar",
-        title: "Director",
-        company: "Anuroop Wiwaha Pvt Ltd",
-        image: "./Zee All Images:Videos/Speakers p2.jpg",
-      },
-      {
         name: "Mrs. Zelam Chaubal",
         title: "Joint M.D",
         company: " Kesari Tours & Travels",
         image: "./Zee All Images:Videos/Speakers p1.jpg",
+      },
+      {
+        name: "Mr. Tanmay Kanitkar",
+        title: "Director",
+        company: "Anuroop Wiwaha Pvt Ltd",
+        image: "./Zee All Images:Videos/Speakers p2.jpg",
       },
       {
         name: "Amit Modak",
@@ -1382,6 +1382,18 @@ const cityData = {
         title: "Director",
         company: "Media&TA",
         image: "./Zee All Images:Videos/Speakers cm7.jpg",
+      },
+      {
+        name: " Mr. Sunil Musti ",
+        title: "Investor/Head Strategy",
+        company: "eMedica",
+        image: "./Zee All Images:Videos/Speakers 13.png",
+      },
+      {
+        name: " Mr. Hemanth Rohera",
+        title: "Founder & CEO",
+        company: "eMedica",
+        image: "./Zee All Images:Videos/Speakers 13.png",
       },
     ],
   },
